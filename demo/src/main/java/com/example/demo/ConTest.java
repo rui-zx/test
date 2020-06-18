@@ -9,6 +9,6 @@ public class ConTest {
     @ResponseBody
     @RequestMapping("test")
     public String test(){
-        return "好了";
+        return "好了....";
     }
 }
